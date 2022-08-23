@@ -1,26 +1,49 @@
 {
     "full-name": "Charoosama",
+
     "icon": "https://i.imgur.com/dsWtNfo.png",
+
     "nicknames": ["That Thing", "Nocturnal Ravager"],
+
     "species": "Merimr",
+
     "gender": "",
+
     "pronouns": "It/Its",
+
     "sexual-orientation": "",
+
     "occupation": "Rogue Merimr",
+
     "goals": ["Kill Xavier Kyivetas", "Kill the Feratas"],
+
     "birthplace": "Orachi",
+
     "nationality": "Orachean",
+
     "birthday": {"m":2, "d":29, "y":1564},
+
     "height": "5'6\"",
+
     "hair-color": "N/A",
+
     "eye-color": "Red",
+
     "favorite-food": "Fried Tdul",
+
     "least-favorite food": "Soup",
+
     "favorite-chocolate": "Not a fan",
+
     "coffee-preference": "Never tried",
+
     "family": [],
+
     "friends": [],
+
     "allies": [],
+
     "neutral": "",
+
     "enemies": ["Der'ika Command"]
 }
