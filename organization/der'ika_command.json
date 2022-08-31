@@ -1,0 +1,16 @@
+{
+    "name": "Der'ika Command",
+    "icon": null,
+    "bio": "A secret pseudo-government organization that deals with Strange Happenings on Earth.",
+    "other_names": ["DiC"],
+    "status": "Active",
+    "creation": {"m":5, "d":13, "y":1946},
+    "category": "Secret Organization",
+    "member_count": "200+",
+    "notable_members": ["Xavier Kyivetas", "Natasha Kuznetsov"],
+    "goals": ["Further their understanding of the world"],
+    "subgroups": ["CryptoZoo", "Kuznetsov Group", "Marie Group"],
+    "allies": ["Meridada"],
+    "neutral": null,
+    "enemies": ["Charoosama", "Cult of the Nameless"]
+}
