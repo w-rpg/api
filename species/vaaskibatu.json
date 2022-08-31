@@ -7,8 +7,9 @@
     "makeup": "Carbon",
     "category": "Synapid",
     "habitat": "Anywhere, but primarily areas with volcanic activity",
+    "social": "Lonesome, can gather in packs sometimes",
     "active_cycle": "Nocturnal",
     "diet": "Hypercarnivorous",
     "lifespan": "15-25 years",
-    "related": []
+    "related": null
 }
