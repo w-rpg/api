@@ -13,6 +13,7 @@
     "goals": ["Kill Xavier Kyivetas", "Kill the Feratas"],
     "strengths": ["Patient", "Tactical", "Resourceful"],
     "weaknesses": ["Does not perform well when plans go awry"],
+    "abilities": ["Telekinesis","Telepathy","Pyrokinesis","Cryokinesis","Dreamhop"],
     "birthplace": "Orachi",
     "nationality": "Orachean",
     "birthday": {"m":2, "d":29, "y":1564},
