@@ -12,5 +12,6 @@
     "active_cycle": "Nocturnal",
     "diet": "Hypercarnivorous",
     "lifespan": "15-25 years",
+    "threat": 2,
     "related": null
 }
