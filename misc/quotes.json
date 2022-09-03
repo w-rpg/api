@@ -22,7 +22,7 @@
 
         "Caitlyn: Wow!!! My first time in the sewers! I'm sure there's plenty of adventure to be had down here!",
 
-        "Caitlyn: I'm so glad I brought my flashlight!\n[Her flash light flickers out and dies]\nCaitlyn: Well exploring in the dark is pretty cool too! Like a horror movie.",
+        "Caitlyn: I'm so glad I brought my flashlight!\n[Her flashlight flickers out and dies]\nCaitlyn: Well exploring in the dark is pretty cool too! Like a horror movie.",
 
         "Caitlyn: Well, this is it! I'm heading out into the scary hallway now! I sure hope it isn't as scary as I'm thinking it is!\n[Caitlyn exits the room and heads into the hallway and looks around. The lights are flickering and there's blood smearing the walls. There's even bits of undead laying around in various places.]\nCaitlyn: I can't believe it's even worse than I imagined!"
     ],
@@ -52,7 +52,9 @@
 
         "Clark: Wow! My favorite customers are back!!",
 
-        "Clark: I met a dude named Bobby but I don't know much about him, I think he's upper management.\nZee: are you gonna fight him behind a dennys for hotel rights\nClark: -looks both ways- Between just you and me, Yes. I trust you, Zee.\nZee: bruh. i'd pay to see that shit\nClark: Oh, it'd be free.\nZee: then ill fuckin' tip\nClark: -increasingly agitated- I don't take tips."
+        "Clark: I met a dude named Bobby but I don't know much about him, I think he's upper management.\nZee: are you gonna fight him behind a dennys for hotel rights\nClark: -looks both ways- Between just you and me, Yes. I trust you, Zee.\nZee: bruh. i'd pay to see that shit\nClark: Oh, it'd be free.\nZee: then ill fuckin' tip\nClark: -increasingly agitated- I don't take tips.",
+
+        "[Someone behind the desk with their shoes on the table loudly clears their throat]\nEmily: oh you're joking\nErik: didn't he get fired\n[The person sets the newspaper down, revealing themselves to be Clark]\nClark: I did get fired. But then I fought Bobby from upper management behind a dumpster at Denny's to take ownership of the hotel."
     ],
 
     "emily": [
@@ -108,6 +110,8 @@
     ],
 
     "scourge": [
+        "Scourge: I am Scourge.",
+
         "Scourge: I have other matters I've been wanting to discuss as well, although with how much Seth has warned me about cyber security and hackers, I'm a little leery of putting it here. Hopefully the hackers just think I'm a scalie or role-player or whatever Seth said they were called. Ha ha!"
     ],
 

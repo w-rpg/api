@@ -7,7 +7,7 @@
     "origin": "Earth",
     "makeup": "Carbon",
     "category": "Synapid",
-    "habitat": "Anywhere, but primarily areas with volcanic or chaotic activity",
+    "habitats": ["Anywhere, but primarily areas with volcanic or chaotic activity"],
     "social": "Lonesome, can gather in packs sometimes",
     "active_cycle": "Nocturnal",
     "diet": "Hypercarnivorous",
