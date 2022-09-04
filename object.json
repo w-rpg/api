@@ -1,0 +1,13 @@
+{
+    "hydrusite": {
+        "name": "Hydrusite",
+        "bio": "An energy rich ore formed within the skull of a Garchenta throughout its life.",
+        "other_names": null,
+        "category": "Material",
+        "origin": "Garchenta",
+        "creator": null,
+        "creation": null,
+        "utility": ["energy"],
+        "related": ["Oraschist"]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "orachi": {
+        "name": "Orachi",
+        "icon": null,
+        "bio": "The planet of the meridada. Littered with charred forests, flaming oceans and ashy deserts.",
+        "other_names": ["Dead Planet", "Fallen Hope"],
+        "presiding": "Orchean Senate",
+        "residents": ["Meridada","Tduls"]
+    }
+}

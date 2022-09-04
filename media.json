@@ -1,0 +1,14 @@
+{
+    "seraphim's song": {
+        "name": "Seraphim's Song",
+        "icon": null,
+        "bio": null,
+        "type": "Anime",
+        "creator": "Cool Studio",
+        "genre": "Romance Comedy",
+        "length": "12 Episodes",
+        "runtime": "24 minutes per Episode",
+        "creation": {"m":2, "d":16, "y":2012},
+        "related": null
+    }
+}
